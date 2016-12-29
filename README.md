@@ -1,3 +1,3 @@
 # hello-world
-Hello World Repository
+Hello World Repository.
 This is my first commit.
